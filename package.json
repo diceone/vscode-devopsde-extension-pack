@@ -1,7 +1,7 @@
 {
     "name": "devopsde-extension-pack",
     "displayName": "dev-ops.de SRE Extension Pack",
-    "publisher": "Michael Vogeler",
+    "publisher": "MichaelVogeler",
     "description": "This extension pack helps SRE Teams to add language support for Go, HCL (HashiCorp Configuration Language), JSON, Jsonnet, Markdown, Ruby, XML and YAML. It also supports tools like Docker, Git, GitHub, Kubernetes, Logstash, NGINX, Puppet, and Terraform and many more.",
     "author": {
         "name": "Michael Vogeler"
